@@ -1,4 +1,4 @@
-# Grad_Math_Project-1
+# Grad_Math_Project-1 - Is someone likely to catch COVID just because they vote for a certain party? or because they are better educated?
 A repo  containing all the files for Grad Math project-1
 This project is about modeling the relationship between COVID-19 infection rates of counties in PA with the political orientation of the population and their education level.
 
