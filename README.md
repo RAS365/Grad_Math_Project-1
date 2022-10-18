@@ -1,9 +1,12 @@
 # Grad_Math_Project-1
 A repo  containing all the files for Grad Math project-1
-This project is about modeling the relationship between COVID-19 infection rates of counties in PA with the political orientation of the population and their education level.\n
-y -> COVID-19 infection rate of each county\n
-x1 -> political orientation of each county\n
-x2 -> education level of each county\n
+This project is about modeling the relationship between COVID-19 infection rates of counties in PA with the political orientation of the population and their education level.
+
+y -> COVID-19 infection rate of each county
+
+x1 -> political orientation of each county
+
+x2 -> education level of each county
 
 first set of hurdles- 
 1. There is no such thing as the political orientation of a county
