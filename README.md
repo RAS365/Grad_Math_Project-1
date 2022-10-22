@@ -17,3 +17,9 @@ Plan to overcome these-
 1. Political orientation of a county can be defined as a f(#republican,#democrat,#other,population)
 2. Education level of a county can be defined as a function of all the discreet levels of education
 3. All the data sets used is to be normalised by the population of each county.
+
+Next hurdle encountered-
+- Covid infection data is population wide while the education and voters' orientation data is 18+
+  - This can be tackled by the following ways:
+    - Assuming that people of years 18- have the same chances of getting infected as those who are 18+. This assumption would allow us to renormalize the covid data that we have to only the 18+ population.
+    - Assuming that the people of the age group 18+ are solely responsible for the covid infection behaviour. This assumption would negate the requirement of normalizing the covid infection data with the 18+ population. 
