@@ -23,3 +23,6 @@ Next hurdle encountered-
   - This can be tackled by the following ways:
     - Assuming that people of years 18- have the same chances of getting infected as those who are 18+. This assumption would allow us to renormalize the covid data that we have to only the 18+ population.
     - Assuming that the people of the age group 18+ are solely responsible for the covid infection behaviour. This assumption would negate the requirement of normalizing the covid infection data with the 18+ population. 
+
+Another, much more significant issue popped up:
+- The data available for COVID infections and the voter orientation are for 67 counties while that for education are for only 39 counties. I tried going to data.census.gov to obtain better data, but I could not find any which had all the 67 counties in it. So, I am left with no choice but to assume that these 39 counties are representative of the entirety of the state.
