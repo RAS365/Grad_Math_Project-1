@@ -61,14 +61,14 @@ here are some images supporting my results-
 
 - COVID infections data:
 
-![OLS results for y vs x1 and x2](/Images/OLS y no interactions.png)
+![OLS results for y vs x1 and x2]([/Images/OLS y no interactions.png](https://github.com/RAS365/Grad_Math_Project-1/blob/master/Images/OLS%20y%20no%20interactions.png))
 
-![OLS results for y vs x1 and x2 with interactions](/Images/OLS y with interactions.png)
+![OLS results for y vs x1 and x2 with interactions]([/Images/OLS y with interactions.png](https://github.com/RAS365/Grad_Math_Project-1/blob/master/Images/OLS%20y%20with%20interactions.png))
 
 - COVID death data:
 
-![OLS results for y2 vs x1 and x2](/Images/OLS y2 no interactions.png)
+![OLS results for y2 vs x1 and x2]([/Images/OLS y2 no interactions.png](https://github.com/RAS365/Grad_Math_Project-1/blob/master/Images/OLS%20y2%20no%20interactions.png))
 
-![OLS results for y2 vs x1 and x2 with interactions](/Images/OLS y2 with interactions.png)
+![OLS results for y2 vs x1 and x2 with interactions]([/Images/OLS y2 with interactions.png](https://github.com/RAS365/Grad_Math_Project-1/blob/master/Images/OLS%20y2%20with%20interactions.png))
 
 
