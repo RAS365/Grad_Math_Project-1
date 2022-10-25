@@ -1,5 +1,7 @@
 # Grad_Math_Project-1 - Is someone likely to catch COVID just because they vote for a certain party? or because they are better educated?
 
+### This file is a project log containing my journey from the start to the end. Enjoy!
+
 A repo  containing all the files for Grad Math project-1
 
 This project is about modeling the relationship between COVID-19 infection rates of counties in PA with the political orientation of the population and their education level.
@@ -49,4 +51,9 @@ Adding the data from another state made a significant difference. Now, x2 has a 
 
 Well, adding data from a third state changed the situation altogether. Now, x2 has a |t-statistic| of with a p-value of 0.859, which is leads me to think that for these three states, voter orientation isn't really a factor. New Jersey was chosen as the third state.
 
+
+### I LOOKED AT THE DEATHS DATA AND WOW. 
+I came looking for copper, but I found gold instead.
+
+Covid death rate has a strong correlation with the average education level of a county. The p-value for the null hypothesis that the coefficient of x2 is not zero is 0.124, which is the best so far for the voter data.
 
