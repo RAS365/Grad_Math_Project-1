@@ -38,3 +38,5 @@ I ended up with several excel sheets and a few different ipynb files dedicated t
 
 
 The linear regression shows that y(covid infections) and x2(political orientation) has a |t-statistic| of 0.653, i.e., we can't neglect the null hypothesis of the coefficient of x2 being 0. x2 has been discretized to 0 and 1 to make things more convenient. Now, a more continuous approach would be tried to see if that makes a difference.
+
+Adding the data from another state made a significant difference. Now, x2 has a |t-statistic| of with a p-value of 0.111, which is much, much better than before. Ohio was chosen as the second state.
