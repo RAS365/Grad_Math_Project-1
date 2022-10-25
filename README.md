@@ -37,3 +37,4 @@ I understood why cleaning up data is such a huge task. The entirety of my weeken
 I ended up with several excel sheets and a few different ipynb files dedicated to each set of data. These will be uploaded to the repository as well.
 
 
+The linear regression shows that y(covid infections) and x2(political orientation) has a |t-statistic| of 0.653, i.e., we can't neglect the null hypothesis of the coefficient of x2 being 0. x2 has been discretized to 0 and 1 to make things more convenient. Now, a more continuous approach would be tried to see if that makes a difference.
