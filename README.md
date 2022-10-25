@@ -57,3 +57,18 @@ I came looking for copper, but I found gold instead.
 
 Covid death rate has a strong correlation with the average education level of a county. The p-value for the null hypothesis that the coefficient of x2 is not zero is 0.124, which is the best so far for the voter data.
 
+here are some images supporting my results-
+
+- COVID infections data:
+
+![OLS results for y vs x1 and x2](/Images/OLS y no interactions.png)
+
+![OLS results for y vs x1 and x2 with interactions](/Images/OLS y with interactions.png)
+
+- COVID death data:
+
+![OLS results for y2 vs x1 and x2](/Images/OLS y2 no interactions.png)
+
+![OLS results for y2 vs x1 and x2 with interactions](/Images/OLS y2 with interactions.png)
+
+
